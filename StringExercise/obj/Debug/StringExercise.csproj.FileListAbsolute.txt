@@ -1,0 +1,7 @@
+C:\Users\Dominic\Documents\Software\StringExercise\StringExercise\bin\Debug\StringExercise.exe.config
+C:\Users\Dominic\Documents\Software\StringExercise\StringExercise\bin\Debug\StringExercise.exe
+C:\Users\Dominic\Documents\Software\StringExercise\StringExercise\bin\Debug\StringExercise.pdb
+C:\Users\Dominic\Documents\Software\StringExercise\StringExercise\obj\Debug\StringExercise.csprojAssemblyReference.cache
+C:\Users\Dominic\Documents\Software\StringExercise\StringExercise\obj\Debug\StringExercise.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\Documents\Software\StringExercise\StringExercise\obj\Debug\StringExercise.exe
+C:\Users\Dominic\Documents\Software\StringExercise\StringExercise\obj\Debug\StringExercise.pdb
